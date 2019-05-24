@@ -1,0 +1,10 @@
+vn\elca\training\dom\QProject.class
+vn\elca\training\service\IMessageByLocaleService.class
+vn\elca\training\service\IProjectService.class
+vn\elca\training\dao\IProjectRepository.class
+vn\elca\training\web\ApplicationController$1.class
+vn\elca\training\service\ProjectService.class
+vn\elca\training\web\ApplicationController.class
+vn\elca\training\service\MessageByLocaleService.class
+vn\elca\training\dom\Project.class
+vn\elca\training\ApplicationLauncher.class

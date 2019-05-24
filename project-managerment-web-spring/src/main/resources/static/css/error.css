@@ -1,0 +1,13 @@
+td{
+	padding: 56px;
+}
+
+table {
+	margin: auto;
+}
+.error-text{
+	font-size: 20px !important;
+}
+.error-text-color{
+	color: #C34A2D;
+}

@@ -1,0 +1,122 @@
+#myNavbar{
+  float: right;
+}
+.table0{
+  width: 100%;
+  margin-top: 43px;
+  margin-left: 6px;
+  border: 1px solid #acb0b7;
+  height: 170px;
+}
+li { cursor: pointer; }
+thead{
+   border-bottom: 1px solid #acb0b7;
+}
+.table0 td,th{
+ border-bottom: 0;
+ border-right: 1px solid #acb0b7;
+ padding:10px 12px 10px 10px;
+ 
+}
+#count-checked{
+	color: #4D96FA;
+}
+#rowfooter{
+	border-top: 1px solid #acb0b7 !important;
+	background-color: #F6F9FF;
+}
+.name-td{
+  padding-right: 138px !important;
+}
+.cus-td{
+   padding-right: 100px !important;
+}
+.stt-td{
+   padding-right: 55px !important;
+}
+.pagination {
+  float: right;
+}
+.form-search {
+  padding-left: 5px;
+      padding-right: 21px
+}
+.deletelist{
+margin-right: 12px;
+    padding-right: 10px;
+display: flex;
+justify-content: center;
+align-items: ;
+visibility: hidden;
+float: right;
+	 border: none;
+	 background-color: #F6F9FF;
+
+}
+.deletelist img{
+    height: 20px;
+
+}
+
+
+.container-fluid {
+  border-bottom: 1px solid #acb0b7;
+  background-color: #f9f9f9;
+}
+.sidenav {
+  padding-top:15px;
+  padding-left:75px;
+  border-right: 1px solid #acb0b7;
+  height: 100%;
+}
+@media screen and (max-width: 767px) {
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+  .row.content {
+    height: auto;
+  }
+}
+.row.content {
+  height: 900px
+}
+.disabled {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: #bebebe;
+}
+.list-inline li{
+  padding-top: 20px;
+  padding-right: 27px;
+}
+.black-link{
+  color: black !important;
+}
+.title{
+  font-size: 20px;
+}
+h3{
+  padding-top: 7px; 
+}
+.navbar-header{
+  padding-top: 10px;
+  font-size: 18px;
+  padding-left: 10px;
+}
+.navbar-header strong{
+  margin-top: 5px;
+}
+input::placeholder {
+ 
+  font-size: 12px;
+}
+
+#projectlistform a{
+	color: black;
+}
+.ckbox{
+	margin-left: 11px !important;
+	
+}

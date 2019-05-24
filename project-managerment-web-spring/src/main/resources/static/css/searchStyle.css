@@ -1,0 +1,10 @@
+.dialog-header-error{
+	background: #f0ad4e;
+}
+tr:hover td {
+	background: dodgerblue;
+	cursor: pointer;
+}
+h2 {
+	color: red;
+}

@@ -1,0 +1,42 @@
+.formNew{
+  margin-left: 29px;
+
+}
+.error{
+	color:red;
+	border-color: red;
+}
+.form-group.row{
+  
+  padding-top: 15px;
+}
+
+.form-group.row label{
+  margin-top: 6px;
+}
+
+.btn-float-left{
+  float: right;
+}
+.btn{
+  padding: 7px 58px !important;
+}
+
+.btn.btn-primary{
+  margin-left: 34px;
+}
+
+.end-date-label{
+ padding-left: 55px;
+}
+
+form label.required:after{
+  color: red;
+    content: " *";
+}
+
+.has-error{
+	border: 1px inset red !important;
+	
+}
+.ui-autocomplete-term { font-weight: bold; color: blue; }
